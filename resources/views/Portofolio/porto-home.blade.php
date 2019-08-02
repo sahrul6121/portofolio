@@ -6,7 +6,7 @@
           <a>Sahrul </a><a style="color:#ed61d1;">Ramadan</a>
   </div>
   <div class="first-content" data-aos="fade-up">
-  <a style="color:white;font-size:50px;">MY PORTOFOLIO <br>
+  <a style="color:white;font-size:50px;">MY FIRST PORTOFOLIO <br>
       <div class="content" data-aos="fade-up">
         <span class="card-icon">
           <img class="profile" style="height:180px;width:170px;"></i>
