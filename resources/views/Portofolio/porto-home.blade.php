@@ -115,82 +115,90 @@
 </section>
 <section class="three" id="three">
   <div class="three-title" data-aos="fade">
-      <div class="three-title-2" data-aos="fade-up">
-        MY RECENT PROJECT
+    <div class="three-title-2" data-aos="fade-up">
+      MY RECENT PROJECT
+    </div>
+    <div class="row">
+      <div class="col-sm-6" style="height:400px;padding:0px;">
+        <center>
+          <div class="card-1" data-aos="zoom-in">
+            <div class="image">
+              <img class="workline" style="height:100%;width:100%;"/>
+            </div>
+            <div class="details">
+              <div class="center">
+                <h1>WORK LINE<br><span>web app</span></h1>
+                <ul>
+                  <li><a href="{{ url('/home-w1') }}">VIEW</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </center>
       </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-6" style="height:400px;padding:0px;">
-      <center>
-        <div class="card-1" data-aos="zoom-in">
-          <div class="image">
-            <img class="workline" style="height:100%;width:100%;"/>
-          </div>
-          <div class="details">
-            <div class="center">
-              <h1>WORK LINE<br><span>web app</span></h1>
-              <ul>
-                <li><a href="{{ url('/home-w1') }}">VIEW</a></li>
-              </ul>
+      <div class="col-sm-6">
+        <center>
+          <div class="card-1" data-aos="zoom-in">
+            <div class="image">
+              <img class="kim" style="height:100%;width:100%;"/>
+            </div>
+            <div class="details">
+              <div class="center">
+                <h1>KIM<br><span>web app</span></h1>
+                <ul>
+                  <li><a href="{{ url('/home-w2') }}">VIEW</a></li>
+                </ul>
+              </div>
             </div>
           </div>
-        </div>
-      </center>
+        </center>
+      </div>
     </div>
-    <div class="col-sm-6">
-      <center>
-        <div class="card-1" data-aos="zoom-in">
-          <div class="image">
-            <img class="kim" style="height:100%;width:100%;"/>
-          </div>
-          <div class="details">
-            <div class="center">
-              <h1>KIM<br><span>web app</span></h1>
-              <ul>
-                <li><a href="{{ url('/home-w2') }}">VIEW</a></li>
-              </ul>
+    <div class="row" style="height:400px;padding:0px;">
+      <div class="col-sm-6">
+        <center>
+          <div class="card-1" data-aos="zoom-in">
+            <div class="image">
+              <img class="inventaris" style="height:100%;width:100%;"/>
+            </div>
+            <div class="details">
+              <div class="center">
+                <h1>INVENTARIS<br><span>web app</span></h1>
+                <ul>
+                  <li><a href="{{ url('/home-w3') }}">VIEW</a></li>
+                </ul>
+              </div>
             </div>
           </div>
-        </div>
-      </center>
-    </div>
-  </div>
-  <div class="row" style="height:400px;padding:0px;">
-    <div class="col-sm-6">
-      <center>
-        <div class="card-1" data-aos="zoom-in">
-          <div class="image">
-            <img class="inventaris" style="height:100%;width:100%;"/>
-          </div>
-          <div class="details">
-            <div class="center">
-              <h1>INVENTARIS<br><span>web app</span></h1>
-              <ul>
-                <li><a href="{{ url('/home-w3') }}">VIEW</a></li>
-              </ul>
+        </center>
+      </div>
+      <div class="col-sm-6">
+        <center>
+          <div class="card-1" data-aos="zoom-in">
+            <div class="image">
+            <img class="stmik" style="height:100%;width:100%;"/>
+            </div>
+            <div class="details">
+              <div class="center">
+                <h1>STMIK<br><span>web page</span></h1>
+                <ul>
+                  <li><a href="{{ url('/home-w4') }}">VIEW</a></li>
+                </ul>
+              </div>
             </div>
           </div>
-        </div>
-      </center>
-    </div>
-    <div class="col-sm-6">
-      <center>
-        <div class="card-1" data-aos="zoom-in">
-          <div class="image">
-          <img class="stmik" style="height:100%;width:100%;"/>
-          </div>
-          <div class="details">
-            <div class="center">
-              <h1>STMIK<br><span>web page</span></h1>
-              <ul>
-                <li><a href="{{ url('/home-w4') }}">VIEW</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </center>
+        </center>
+      </div>
     </div>
   </div>
+</section>
+<section class="four" id="four">
+  <div class="four-clip">
+    <div class="four-content">
+
+    </div>
+  </div>
+  
 </section>
 <footer class="site-footer" data-aos="fade-up" id="footer">
       <div class="container">
